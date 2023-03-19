@@ -1,10 +1,10 @@
 hello Lrqi
-hello Lrqi  hot-fix
+hello Lrqi  master -conflict merge
 hello Lrqi
 hello Lrqi
-hello Lrqi
-hello Lrqi
-hello Lrqi
+hello Lrqi	ff	hll
+hello Lri	master test
+hello Lrqi  ma
 hello Lrqi
 hello Lrqi
 hello Lrqi
